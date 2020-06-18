@@ -4,14 +4,18 @@ Things based on [GemPy](https://github.com/cgre-aachen/gempy), which I did durin
 ![](figs/test3.gif)
 
 ### Featuring: Stochastic simulations with... 
+
 #### Uncertain locations
 ![](figs/loc_unc.gif)
+
 #### Uncertain orientations
 ![](figs/or_unc.gif)
+
 #### (or both, of course!)
 
 ### Probability and entropy calculation and visualization
 ![](figs/prob2entropy.gif)
+
 ### Spaghetti plot creation to visualize multiple model outcomes
 ![](figs/spaghetti.png)
 
