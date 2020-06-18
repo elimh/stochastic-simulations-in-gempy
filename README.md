@@ -1,5 +1,5 @@
 # gempy-examples
-Things based on [GemPy](https://github.com/cgre-aachen/gempy), which I did during my master thesis and which I am too lazy to include in the main repo. All demonstrated on a simple example model with three different lithologies and one fault:
+Things based on [GemPy](https://github.com/cgre-aachen/gempy), which I did during my master thesis time at CGRE and which I am too lazy to include in the main repo. All demonstrated on a simple example model with three different lithologies and one fault:
 
 ![](figs/test3.gif)
 
