@@ -3,7 +3,7 @@ Things based on [GemPy](https://github.com/cgre-aachen/gempy), which I did durin
 
 ![](figs/test3.gif)
 
-<p><strong>Important note:</strong> It is not guaranteed that these notebooks will run with the main version of gempy. Gempy is in active development and things are changing fast, which can lead to errors when running code in these notebooks. However, the code will always run with [this fork of gempy](https://github.com/elimh/gempy).</p>
+**Important note:** It is not guaranteed that these notebooks will run with the main version of gempy. Gempy is in active development and things are changing fast, which can lead to errors when running code in these notebooks. However, the code will always run with [this fork of gempy](https://github.com/elimh/gempy).
 
 
 ### Featuring: Stochastic simulations with... 
