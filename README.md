@@ -1,4 +1,4 @@
-# gempy-examples
+# Monte-Carlo uncertainty propagation in GemPy models
 Workflows to conduct stochastic simulations of models in [GemPy](https://github.com/cgre-aachen/gempy) and to visualize the results. All demonstrated on a simple example model with three different lithologies and one fault. Relatively old code, documentation is lacking. Feel free to add explanations to make these notebooks useful for anyone starting to work with stochastic simulations in GemPy. 
 
 ![](figs/test3.gif)
